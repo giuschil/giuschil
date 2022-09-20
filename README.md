@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **giuschil/giuschil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# info
+## Hi there 👋
 
 - :telescope: I’m working as a Data Analyst Junior and contributing to frontend and backend for building web applications.
 
