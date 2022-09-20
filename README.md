@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am passionate about digital technologies, data analysis, and innovative solutions. My background is in web development, online marketing, and digital product management. I have experience developing digital services with Agile methodologies, defining strategies, and managing and pitching projects to investors.
 
-### SKILLS & EXPERTISE
+### Skills & Expertise
 - Python, Numpy, Pandas, R
 - Html, Css, Php, Mysql, Javascript, Jquery, Bootstrap, Cms (Wordpress, Magento, Prestoshop) Web developer
 - Trello, Jira, Git, BitBucket
