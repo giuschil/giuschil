@@ -1,4 +1,7 @@
 
+<div>
+  <img src="https://github.com/giuschil/giuschil/blob/main/cover-data-github.jpeg" title="Cover" alt="Cover" width="auto" height="auto"/>&nbsp;
+</div>
 <!--
 **giuschil/giuschil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
