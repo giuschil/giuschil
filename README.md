@@ -29,8 +29,7 @@ I am passionate about digital technologies, data analysis, and innovative soluti
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :zap: In my free time, I create web app,read tech articles and play tennis 🎾
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-giuseppeschillaci-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/giuseppeschillaci)
 
 
