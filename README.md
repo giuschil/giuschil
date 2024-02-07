@@ -21,6 +21,10 @@ I am passionate about digital technologies, data analysis, and innovative soluti
 
 ### Skills & Expertise
 - Python, Numpy, Pandas, R
+- Looker Studio, PowerBI, Tableau
+- SqlServer, Postgres, Mysql, Azure Datastage, Bigquery
+- Pega Dev, Pega CRM, Hubspot, Salesforce
+- Google Analytics, Matomo, Tag Manager
 - Html, Css, Php, Mysql, Javascript, Jquery, Bootstrap, Cms (Wordpress, Magento, Prestoshop) Web developer
 - Trello, Jira, Git, BitBucket
 - Adobe XD and Figma for UI/UX
