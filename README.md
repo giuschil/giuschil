@@ -32,9 +32,9 @@ I am passionate about digital technologies, data analysis, and innovative soluti
 - Adobe XD and Figma for UI/UX
 - Technologies for Web Marketing - Google Ads and Fb Ads.
 
-- :telescope: I’m working as a Data Analyst, Crm Analyst and Business Intelligence Analyst .
+- :telescope: I’m working as a Data Analyst. I worked also as Crm Analyst and Business Intelligence Analyst .
 
-- :zap: In my free time, I create web app,read tech articles and play tennis 🎾
+- :zap: In my free time, I create web app,read tech articles and play volleyball
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-giuseppeschillaci-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/giuseppeschillaci)
 
 
