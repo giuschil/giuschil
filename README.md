@@ -25,7 +25,9 @@ I am passionate about digital technologies, data analysis, and innovative soluti
 - SqlServer, Postgres, Mysql, Azure Datastage, Bigquery
 - Pega Dev, Pega CRM, Hubspot, Salesforce
 - Google Analytics, Matomo, Tag Manager
+- Django, Postgres, Mariadb, Mongodb
 - Html, Css, Php, Mysql, Javascript, Jquery, Bootstrap, Cms (Wordpress, Magento, Prestoshop) Web developer
+- Nextjs
 - Trello, Jira, Git, BitBucket
 - Adobe XD and Figma for UI/UX
 - Technologies for Web Marketing - Google Ads and Fb Ads.
